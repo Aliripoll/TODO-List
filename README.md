@@ -19,7 +19,7 @@ Finalemente vemos nuestra lista con cada una de las tareas que hemos añadido, s
 ## Otros detalles
 
 - Al pasar el ratón por encima de la "X" se marca en rojo.
-- La información de la lista queda guardada en local storage y cuando vuelvas a abrir la lista estará toda la información.
+- La información de la lista queda guardada en local storage y cuando vuelvas a abrir la lista estará toda la información añadida previamente.
 - Texto informativo al inicio de la página sobre las tareas que llevas completadas. 
 
 
